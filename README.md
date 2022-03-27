@@ -1,4 +1,4 @@
-# clustering_clients
+# clustering_segmentation_clients
 Olist, le Amazon brésilien, souhaite que je fournisse à ses équipes d'e-commerce une segmentation des clients qu’elles pourront utiliser au quotidien pour leurs campagnes de communication.
 
 L'objectif est de comprendre les différents types d’utilisateurs grâce à leur comportement et à leurs données personnelles.
